@@ -1,5 +1,5 @@
 SOURCE=		hello.c hello-asm.s
-TARGET=		hello hello-asm
+TARGET=		hello hello-asm hello-asm-64
 
 all:		$(TARGET)
 
